@@ -1,16 +1,19 @@
-### Hi there 👋
+# [Hello, World!!] Eu sou o Vinicius Oliveira ✌🏻
 
-<!--
-**ViNi-0/ViNi-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Um pouco sobre mim 📝
+### Sou formado em Ciências da Computação e atualmente estou buscando minha pirmeira vaga como desnvolvedor FrontEnd.
 
-Here are some ideas to get you started:
+![Vini GitHub stats](https://github-readme-stats.vercel.app/api?username=ViNi-0&show_icons=true&theme=cobalt&hide=contribs)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Tecnologias que utilizo
+
+<div style="display: inline-block">
+    <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=black" alt="HTML 5">
+</div>
+<div style="display: inline-block">
+    <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=black" alt="CSS">
+</div>
+<div style="display: inline-block">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="HTML 5">
+</div></br>S
